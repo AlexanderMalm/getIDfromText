@@ -5,7 +5,7 @@
 
 **Requienments:** Node.js installed on the system.
 
-**Installation:** Clone to local and run `npm install` to install dependencies. 
+**Installation:** Simply clone to local using `git clone https://github.com/AlexanderMalm/getIdfromText`.
 
-**Usage:** Navigate to repository and run `node getID.js`
+**Usage:** Navigate to file directory and run `node getID.js` in terminal.
 
